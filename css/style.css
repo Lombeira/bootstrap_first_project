@@ -1,11 +1,27 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
 .navbar {
     background-color: rgb(194, 194, 194);
 }
 
 .about {
     background-color: #3f4b58;
+    color: whitesmoke;
 }
 
 .margin {
-    padding-top: 5000px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.projects {
+    background-color:#343a40 ;
+    color: white;
+}
+
+.contact {
+    background-color: #3f4b58 ;
+    color: white;
 }
