@@ -12,8 +12,8 @@ body {
 }
 
 .margin {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .projects {
@@ -24,4 +24,10 @@ body {
 .contact {
     background-color: #3f4b58 ;
     color: white;
+}
+
+.bg-footer {
+    background-color:#343a40 ;
+    color: white;
+    font: 16px Arial, sans-serif;
 }
